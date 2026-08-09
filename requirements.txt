@@ -1,0 +1,13 @@
+PySide6>=6.6.0
+markitdown>=0.1.7
+pyinstaller>=6.0.0
+pdfminer.six
+python-docx
+python-pptx
+openpyxl
+mammoth
+pypdf
+pdfplumber
+beautifulsoup4
+lxml
+charset-normalizer
